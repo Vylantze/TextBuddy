@@ -1,0 +1,42 @@
+Welcome to TextBuddy, dood. test.txt is ready for use, dood.
+command: "W15 = Rewrite" is not a valid command dood!
+command: "" is not a valid command dood!
+command: All content has been deleted from test.txt, dood
+command: "Hello World" is not a valid command dood!
+command: "turkey save me" is not a valid command dood!
+command: test.txt is most unfortunately empty
+command: "display5" is not a valid command dood!
+command: "delete5" is not a valid command dood!
+command: Added "turkey bacon" to test.txt
+command: Added "unlimited blade works" to test.txt
+command: Added "pie" to test.txt
+command: "addshit" is not a valid command dood!
+command: Added "khairul" to test.txt
+command: Added "killed a cat" to test.txt
+command: Failed to add "" to test.txt
+command: Added "you monster" to test.txt
+command: Added "cat kills you" to test.txt
+command: 1. turkey bacon
+2. unlimited blade works
+3. pie
+4. khairul
+5. killed a cat
+6. you monster
+7. cat kills you
+command: 10 is an invalid number dood!
+command: -1 is an invalid number dood!
+command: "khairul" has been deleted from test.txt
+command: 1. turkey bacon
+2. unlimited blade works
+3. pie
+4. killed a cat
+5. you monster
+6. cat kills you
+command: "turkey bacon" has been deleted from test.txt
+command: "cat kills you" has been deleted from test.txt
+command: 1. unlimited blade works
+2. pie
+3. killed a cat
+4. you monster
+command: "eat cake" is not a valid command dood!
+command: Kthxbye

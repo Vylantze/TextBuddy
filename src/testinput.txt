@@ -1,0 +1,27 @@
+W15 = Rewrite
+
+clear
+Hello World
+turkey save me
+display 5
+display5
+delete5
+add turkey bacon
+add unlimited blade works
+add pie
+addshit
+add khairul
+add killed a cat
+add
+add you monster
+add cat kills you
+display
+delete 10
+delete -1
+delete 4
+display
+delete 1
+delete 5
+display
+eat cake
+exit
